@@ -3,6 +3,12 @@
 
 Trying to help others to understand the World of Appium
 
+### Starting emulators
+
+Use the npm packages `start-ios-simulator` & `start-android-emulator`. Links below:
+- https://github.com/wswebcreation/start-ios-simulator
+- https://github.com/wswebcreation/start-android-emulator
+
 ### Resources
 
 |Platforms|Setup                                                |Drivers              |Capabilities                                   |Locators                               |Waits       |Actions |Gestures             |
